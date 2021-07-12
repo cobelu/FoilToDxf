@@ -1,0 +1,3 @@
+ezdxf
+airfoils
+pandas
