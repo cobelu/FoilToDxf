@@ -140,3 +140,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 {"mode":"full","isActive":false}
+*.cfg
+*.csh
+*.fish
+*.ps1
+*.9
+*.1
